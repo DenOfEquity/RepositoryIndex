@@ -1,5 +1,5 @@
 ## DenOfEquity repository index ##
-### extensions for Forge webUI (and sometimes for A1111, reForge) for Stable Diffusion ###
+### extensions for [Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) webUI for Stable Diffusion (and sometimes for [A1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui), [reForge](https://github.com/Panchovix/stable-diffusion-webui-reForge)) ###
 
 ### Image models ###
 * [Hunyuan-DiT](https://github.com/DenOfEquity/Hunyuan-DiT-for-webUI) *adds new tab*
