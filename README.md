@@ -14,9 +14,10 @@
 * [LTX Video](https://github.com/DenOfEquity/forge_space_LTXvideo) *Space, for new Forge*
 
 ### Image enhancement ###
-* [auraSR](https://github.com/DenOfEquity/auraSR-webUI) *super resolution, adds new tab*
+* [auraSR](https://github.com/DenOfEquity/auraSR-webUI) *4x super resolution, adds new tab*
 * [cleaner](https://github.com/DenOfEquity/forge2_cleaner) *version of NovitaLabs cleaner, fixed for new Forge*
 * [instantIR](https://github.com/DenOfEquity/forge_space_InstantIR) *image reconstruction and enlargement. Space, for new Forge*
+* [invSR](https://github.com/DenOfEquity/forge_space_InvSR) *4x super resolution. Space, for new Forge*
 
 ### features ###
 * [Adaptive Projected Guidance](https://github.com/DenOfEquity/AdaptiveProjectedGuidance) *CFG alternative*
