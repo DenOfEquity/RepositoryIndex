@@ -29,3 +29,6 @@
 * [multi-prompt, Shift for Flux](https://github.com/DenOfEquity/forgeFlux_dualPrompt) *extension, for new Forge*
 * [schedRide](https://github.com/DenOfEquity/SchedRide) *various scheduler manipulations, for old Forge, includes AlignYourSteps scheduler*
 * [SuperPrompt](https://github.com/DenOfEquity/superPrompter-webUI) *prompt enhancement*
+
+### Text models ###
+* [SmallThinker-3B](https://github.com/DenOfEquity/forge_space_SmallThinker) *Space, for new Forge*
