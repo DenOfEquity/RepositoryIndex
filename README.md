@@ -3,6 +3,7 @@
 
 ### Image models ###
 * [Hunyuan-DiT](https://github.com/DenOfEquity/Hunyuan-DiT-for-webUI) *adds new tab*
+* [Janus Pro](https://github.com/DenOfEquity/forge_space_Janus-Pro) *Space, for new Forge. Multimodal model, can also interpret images.*
 * [NitroFusion](https://github.com/DenOfEquity/forge_space_NitroFusion) *Space, for new Forge*
 * [Pixart](https://github.com/DenOfEquity/PixArt-Sigma-for-webUI) *adds new tab*
 * [Sana](https://github.com/DenOfEquity/Sana-for-webUI) *creates new tab*
