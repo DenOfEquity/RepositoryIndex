@@ -4,11 +4,13 @@
 ### Image models ###
 * [Hunyuan-DiT](https://github.com/DenOfEquity/Hunyuan-DiT-for-webUI) *adds new tab*
 * [Janus Pro](https://github.com/DenOfEquity/forge_space_Janus-Pro) *Space, for new Forge. Multimodal model, can also interpret images.*
+* [Kolors](https://github.com/DenOfEquity/Kolors-for-webUI) *adds new tab*
 * [NitroFusion](https://github.com/DenOfEquity/forge_space_NitroFusion) *Space, for new Forge*
 * [Pixart](https://github.com/DenOfEquity/PixArt-Sigma-for-webUI) *adds new tab*
 * [Sana](https://github.com/DenOfEquity/Sana-for-webUI) *creates new tab*
 * [Stable Cascade](https://github.com/DenOfEquity/StableCascade-for-webUI) *adds new tab*
 * [Stable Diffusion 3](https://github.com/DenOfEquity/StableDiffusion3-for-webUI) *adds new tab*
+* [Stable Diffusion 3.5](https://github.com/DenOfEquity/StableDiffusion3.5-for-webUI) *adds new tab*
 * [Switti](https://github.com/DenOfEquity/forge_space_Switti) *Space, for new Forge*
 
 ### Video models ###
