@@ -23,14 +23,14 @@
 * [invSR](https://github.com/DenOfEquity/forge_space_InvSR) *4x super resolution. Space, for new Forge*
 
 ### features ###
-* [Adaptive Projected Guidance](https://github.com/DenOfEquity/AdaptiveProjectedGuidance) *CFG alternative, and more, for new Forge*
+* [Adaptive Projected Guidance](https://github.com/DenOfEquity/AdaptiveProjectedGuidance) *CFG alternative, and more, for new Forge. Includes SLG for SD3*
 * [BlockCache](https://github.com/DenOfEquity/sd-forge-blockcache) *First Block Cache and TeaCache: accelerated inference, for new Forge*
 * [CFG fade](https://github.com/DenOfEquity/CFgfade) *CFG adjustments, mid generation*
 * [Cond Blast](https://github.com/DenOfEquity/CondBlast) *mostly experimental, manipulations for text conds*
 * [DriftCorrection](https://github.com/DenOfEquity/DriftCorrection) *corrects latent drift in various ways*
 * [ExtraSchedulers](https://github.com/DenOfEquity/webUI_ExtraSchedulers) *new samplers and schedulers*
+* [Forge2 extras](https://github.com/DenOfEquity/forgeFlux_dualPrompt) *prompt each text encoder separately, pick device for text encoding, Shift for Flux and SD3, FluxTools support; for new Forge*
 * [Hypertile](https://github.com/DenOfEquity/HyperTile) *fixed Hypertile, for new Forge*
-* [multi-prompt, Shift for Flux](https://github.com/DenOfEquity/forgeFlux_dualPrompt) *extension, for new Forge*
 * [schedRide](https://github.com/DenOfEquity/SchedRide) *various scheduler manipulations, for old Forge, includes AlignYourSteps scheduler*
 * [SuperPrompt](https://github.com/DenOfEquity/superPrompter-webUI) *prompt enhancement*
 
