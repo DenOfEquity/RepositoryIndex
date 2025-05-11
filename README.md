@@ -26,7 +26,7 @@
 ### features ###
 * [Adaptive Projected Guidance](https://github.com/DenOfEquity/AdaptiveProjectedGuidance) *CFG alternative, and more, for new Forge. Includes SLG for SD3*
 * [BlockCache](https://github.com/DenOfEquity/sd-forge-blockcache) *First Block Cache and TeaCache: accelerated inference, for new Forge*
-* [CFG fade](https://github.com/DenOfEquity/CFgfade) *CFG adjustments, mid generation*
+* [CFG fade](https://github.com/DenOfEquity/CFgfade) *CFG adjustments, mid generation, for old Forge*
 * [Cond Blast](https://github.com/DenOfEquity/CondBlast) *mostly experimental, manipulations for text conds*
 * [DriftCorrection](https://github.com/DenOfEquity/DriftCorrection) *corrects latent drift in various ways*
 * [ExtraSchedulers](https://github.com/DenOfEquity/webUI_ExtraSchedulers) *new samplers and schedulers*
