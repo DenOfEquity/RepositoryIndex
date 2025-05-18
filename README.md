@@ -32,6 +32,7 @@
 * [ExtraSchedulers](https://github.com/DenOfEquity/webUI_ExtraSchedulers) *new samplers and schedulers*
 * [Forge2 extras](https://github.com/DenOfEquity/forgeFlux_dualPrompt) *prompt each text encoder separately, pick device for text encoding, Shift for Flux and SD3, FluxTools support; for new Forge*
 * [Hypertile](https://github.com/DenOfEquity/HyperTile) *fixed Hypertile, for new Forge*
+* [Latent Bridge Matching - Relighting](https://github.com/DenOfEquity/forge_space_JasperLBM) *Space, for new Forge*
 * [schedRide](https://github.com/DenOfEquity/SchedRide) *various scheduler manipulations, for old Forge, includes AlignYourSteps scheduler*
 * [SuperPrompt](https://github.com/DenOfEquity/superPrompter-webUI) *prompt enhancement*
 
