@@ -24,7 +24,7 @@
 * [invSR](https://github.com/DenOfEquity/forge_space_InvSR) *4x super resolution. Space, for new Forge*
 
 ### features ###
-* [Adaptive Projected Guidance](https://github.com/DenOfEquity/AdaptiveProjectedGuidance) *CFG alternative, and more, for new Forge. Includes SLG for SD3*
+* [Adaptive Projected Guidance](https://github.com/DenOfEquity/AdaptiveProjectedGuidance) *CFG alternative, and more, for new Forge. Includes SLG for SD3. Includes **CFG fade** functionality*
 * [BlockCache](https://github.com/DenOfEquity/sd-forge-blockcache) *First Block Cache and TeaCache: accelerated inference, for new Forge*
 * [CFG fade](https://github.com/DenOfEquity/CFgfade) *CFG adjustments, mid generation, for old Forge*
 * [Cond Blast](https://github.com/DenOfEquity/CondBlast) *mostly experimental, manipulations for text conds*
